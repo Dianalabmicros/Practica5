@@ -1,4 +1,5 @@
 
+Diana Carolina Treviño
 # Practice 5. Introduction to using MPLAB X IDE
 
 
@@ -121,5 +122,9 @@ Commit and push the file main.c created once you completed all the steps of the 
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 
 ## Conclusion
-
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+En esta practica pude aprender a utilizar la herramienta de MPLAB el cual corresponde a la familia de Microchip a la cual 
+pertenece el microcontrolador que vemos en clase,  pude configurar mi proyecto y agregar un compilador con el cual se 
+realizaba la practica, al utilizar Target Memory views SFRs pudimos tener mas control de lo que pasaba al utilizar el debug 
+y con esto monitoreamos el ANSELx y LATx ya que se inicializaban los puertos A y B con esta actividad me quedo un poco mas 
+claro el funcionamiento de estos elementos en el microcontrolador.
+ 
