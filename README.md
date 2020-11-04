@@ -1,5 +1,6 @@
 
-Diana Carolina Treviño
+Diana Carolina Treviño a00816525
+
 # Practice 5. Introduction to using MPLAB X IDE
 
 
@@ -124,7 +125,7 @@ Record a video of the practice’s functionality and upload it on youtube. The v
 ## Conclusion
 En esta practica pude aprender a utilizar la herramienta de MPLAB el cual corresponde a la familia de Microchip a la cual 
 pertenece el microcontrolador que vemos en clase,  pude configurar mi proyecto y agregar un compilador con el cual se 
-realizaba la practica, al utilizar Target Memory views SFRs pudimos tener mas control de lo que pasaba al utilizar el debug 
-y con esto monitoreamos el ANSELx y LATx ya que se inicializaban los puertos A y B con esta actividad me quedo un poco mas 
-claro el funcionamiento de estos elementos en el microcontrolador.
+realizaba la practica, al utilizar Target Memory views SFRs pudimos tener más control de lo que pasaba al utilizar el debug 
+y con esto monitoreamos el ANSELx y LATx ya que se inicializaban los puertos A y B con esta actividad me quedo un poco más 
+claro el funcionamiento de estos elementos en el microcontrolador, con el SFR se pudieron ver las transiciones de la memoria.
  
